@@ -46,5 +46,5 @@ public class CollegerController {
 
 		return imageingUtill.responseEntityForFetchSuccess(collegeService.collegeDataUpdate(collegeBean));
 	}
-
+//hwffqejhfiopujdfpqj
 }
